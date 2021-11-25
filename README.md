@@ -12,3 +12,5 @@
 •	Enemy : Behavior Tree 에디터를 사용하여 기본적으로 주어지는 노드들을 이용하고 필요한 기능의 노드를 코딩을 하여 적의 종류마다 다른 패턴을 구현
 •	Boss : Behavior Tree 에디터를 이용하여 점프 공격, 돌진 공격, 산성 침 뱉기 총 3 가지 패턴을 구현하였고 각 패턴마다 콜라이더를 따로 둬서 패턴이 시작했을 때 SetActive 를 True 로 끝났을 때는 False 로 바꿔가며 플레이어에게 데미지를 줄 수 있도록 구현
 •	Game Stop : deligate 를 사용하여 게임을 멈추고 다시 시작할 때의 필요한 것을 담아서 한번 호출로 여러 개의 함수를 호출 할 수 있도록 구현
+
+youtube 링크 : https://www.youtube.com/watch?v=7N_C8KMS3Q8&list=PLKXf0qhZKKaewCYZaOvtjjkJeuhTCj6Qq&index=1
